@@ -1,5 +1,5 @@
 {
-  "name": "react-native-version-check-expo",
+  "name": "@antiquete/react-native-version-check-expo",
   "version": "3.4.2",
   "description": "A version checker for react-native expo applications",
   "main": "index.js",
